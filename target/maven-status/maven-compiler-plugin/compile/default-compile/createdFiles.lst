@@ -1,0 +1,17 @@
+com\health\assistant\dao\PlanRecordDAO.class
+com\health\assistant\servlet\HistoryServlet.class
+com\health\assistant\model\PlanRecord.class
+com\health\assistant\servlet\LoginServlet.class
+com\health\assistant\dao\WeightRecordDAO.class
+com\health\assistant\dao\UserDAO.class
+com\health\assistant\servlet\GeneratePlanServlet.class
+com\health\assistant\dao\HealthProfileDAO.class
+com\health\assistant\model\WeightRecord.class
+com\health\assistant\model\HealthProfile.class
+com\health\assistant\util\DBUtil.class
+com\health\assistant\model\User.class
+com\health\assistant\servlet\LogoutServlet.class
+com\health\assistant\servlet\WeightTrackServlet.class
+com\health\assistant\servlet\HealthProfileServlet.class
+com\health\assistant\servlet\RegisterServlet.class
+com\health\assistant\util\OllamaUtil.class

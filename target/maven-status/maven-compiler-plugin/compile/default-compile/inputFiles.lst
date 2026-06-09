@@ -1,0 +1,17 @@
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\dao\HealthProfileDAO.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\dao\PlanRecordDAO.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\dao\UserDAO.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\dao\WeightRecordDAO.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\model\HealthProfile.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\model\PlanRecord.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\model\User.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\model\WeightRecord.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\servlet\GeneratePlanServlet.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\servlet\HealthProfileServlet.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\servlet\HistoryServlet.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\servlet\LoginServlet.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\servlet\LogoutServlet.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\servlet\RegisterServlet.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\servlet\WeightTrackServlet.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\util\DBUtil.java
+D:\web课设\Auto health asistant\src\main\java\com\health\assistant\util\OllamaUtil.java
